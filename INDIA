@@ -1,0 +1,213 @@
+{
+  "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
+    "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
+      "1": "dd-MMM-yy",
+      "4": "h:mm:ss tt",
+      "3": "CgEuEgEsGAM="
+    }
+  },
+  "79f99d26-e43a-4ecb-a9c9-0774601a9b2e": {
+    "79f99d26-e43a-4ecb-a9c9-0774601a9b2e": {
+      "8": 1,
+      "14": true
+    }
+  },
+  "26b9e4a5-ce10-4f30-94c7-23a1ca4428f9": {
+    "0644e02a-78f1-4d1b-aa66-a1091f3036ad": {
+      "1": "Repairs and maintenance",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "18a0dd20-f9e9-47e2-b178-de55b5045b58": {
+      "1": "Telephone And Internet expenses",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "1d4cabfd-9168-4dc2-82f5-c269ed530fed": {
+      "1": "House rent Allowance",
+      "3": "2019aefa-dc86-4572-a6b7-ca0a1c9a9fb5"
+    },
+    "33d7b96b-50da-4c38-9e94-d458abbfd31e": {
+      "1": "Interest on Bank Overdraft",
+      "3": "a1c341fc-032e-4271-aab3-60f1d6447e8b"
+    },
+    "34418595-b939-4316-843d-1797f055afa7": {
+      "1": "Electricity Expenses",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "3a978f1a-48a4-4219-b2aa-7d64c712ee52": {
+      "1": "Entertainment Expenses",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "4a206f68-1d0b-4d51-9bd3-c0e7158b7a09": {
+      "1": "Printing and stationery",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "4d3663bd-69d2-4b0e-bef7-9a4c2a9d4b7b": {
+      "1": "Donations",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "5005ea85-4817-4627-8b47-e88b22f52356": {
+      "1": "Rent Paid",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "5010acae-036b-4445-8592-ff94670bf631": {
+      "1": "Interest On Bank Loan",
+      "3": "a1c341fc-032e-4271-aab3-60f1d6447e8b"
+    },
+    "57de4c29-9432-4ae4-b12a-15ab9de10dec": {
+      "1": "Basic Pay",
+      "3": "2019aefa-dc86-4572-a6b7-ca0a1c9a9fb5"
+    },
+    "5f6fac8b-96c0-4f5d-adf1-ec0457371f47": {
+      "1": "Current Tax",
+      "3": "fb54501e-2980-40ca-bb1b-46e3cf042945"
+    },
+    "67c09136-2536-4125-af25-49392d5e01f4": {
+      "1": "Advertising and promotion",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "7bf09dbb-d489-45ed-8f64-915e6ef54d88": {
+      "1": "Deferred Tax",
+      "3": "fb54501e-2980-40ca-bb1b-46e3cf042945"
+    },
+    "7d52b3d5-d109-468d-a42b-9160eba6ab67": {
+      "1": "Legal fees",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "8a3f5179-ebbd-468a-9c0b-2a9a2774b43e": {
+      "1": "Bank charges",
+      "3": "a1c341fc-032e-4271-aab3-60f1d6447e8b"
+    },
+    "9265d433-1afa-4e54-9ecd-2dcfb844eda8": {
+      "1": "Motor vehicle expenses",
+      "3": "73f57a9b-bc75-4f92-8a18-373407f4f366"
+    },
+    "a9ee28d9-79e3-4225-a912-f7fd77dedc7e": {
+      "1": "Dearness Allowance",
+      "3": "2019aefa-dc86-4572-a6b7-ca0a1c9a9fb5"
+    },
+    "ccf568f4-6b7a-4c8a-9e5f-586f3bc42d1f": {
+      "1": "Discount Received",
+      "3": "ca466491-d86e-47ff-8136-e31f9953916d",
+      "14": 1
+    },
+    "dfd870dd-b64b-4c02-8b95-2632b2b0f0d4": {
+      "1": "Dividend Received",
+      "3": "ca466491-d86e-47ff-8136-e31f9953916d",
+      "14": 1
+    },
+    "f8e4202c-2df3-465c-83ce-75eb58e50dcf": {
+      "1": "Interest Recived",
+      "3": "ca466491-d86e-47ff-8136-e31f9953916d",
+      "14": 1
+    }
+  },
+  "5770616c-0e01-46ca-a172-f7042275da6c": {
+    "2019aefa-dc86-4572-a6b7-ca0a1c9a9fb5": {
+      "1": "Salary To Employess",
+      "6": 2,
+      "3": "df47ec2b-1021-46d3-8814-8b9b0c24b2f7"
+    },
+    "2a92b770-9df8-44c4-ac45-fcb7df043f39": {
+      "1": "Net Profit/Loss From Discontinuing Operations",
+      "5": 4
+    },
+    "73f57a9b-bc75-4f92-8a18-373407f4f366": {
+      "1": "Other Expenses",
+      "6": 2,
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "86830844-4681-47e2-8fb8-4b42966bd320": {
+      "1": "Depreciation and Amortization",
+      "6": 2,
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "95713fac-30d3-42e4-b536-dd7bc4f7a80e": {
+      "1": "Income",
+      "5": 1
+    },
+    "a1c341fc-032e-4271-aab3-60f1d6447e8b": {
+      "1": "Finance Expenses",
+      "6": 2,
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "b6d9a1cc-61ed-4ec7-8e08-85bfe4b14aac": {
+      "1": "Cost Of Materials Consumed",
+      "6": 2,
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "ca466491-d86e-47ff-8136-e31f9953916d": {
+      "1": "Other Income",
+      "6": 2,
+      "3": "95713fac-30d3-42e4-b536-dd7bc4f7a80e",
+      "5": 2
+    },
+    "d18214ae-dad5-499c-966f-fd74f8a92c99": {
+      "1": "Perquisites To Employess",
+      "6": 2,
+      "3": "df47ec2b-1021-46d3-8814-8b9b0c24b2f7"
+    },
+    "dc5a005d-78c6-48f7-9f42-500d60dcab2d": {
+      "1": "Revenue from Oprations",
+      "6": 2,
+      "3": "95713fac-30d3-42e4-b536-dd7bc4f7a80e",
+      "5": 1
+    },
+    "df47ec2b-1021-46d3-8814-8b9b0c24b2f7": {
+      "1": "Employees Benefit Expenses",
+      "6": 2,
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "fb54501e-2980-40ca-bb1b-46e3cf042945": {
+      "1": "Tax Expenses",
+      "6": 1,
+      "5": 6
+    },
+    "fd003045-876e-439e-b923-1904453f5c30": {
+      "1": "Expenses",
+      "6": 1,
+      "5": 2
+    }
+  },
+  "7662b887-c8d8-486e-98fd-f9dbcd41c6dc": {
+    "7662b887-c8d8-486e-98fd-f9dbcd41c6dc": {
+      "8": 1,
+      "14": true
+    }
+  },
+  "a9a71e47-82b3-49db-8aec-898adb460a80": {
+    "a9a71e47-82b3-49db-8aec-898adb460a80": {
+      "1": 311
+    }
+  },
+  "f361339b-932a-4436-b56e-a337c1587c72": {
+    "0afa5f6b-0410-4ae5-b338-ab94f6eb19dd": {
+      "1": "Share of profit"
+    },
+    "80095a94-8261-4f7b-b786-6ec998f1c78b": {
+      "1": "Drawings"
+    },
+    "bae2533c-acf6-4d36-9e47-d98999b41548": {
+      "1": "Funds contributed"
+    }
+  },
+  "9601ce49-6058-4dac-9405-82f35005ea90": {
+    "6f7c262d-ee11-495e-b7d0-e34e1f8a06d3": {
+      "1": "Net Profit From Continuing Operations",
+      "3": 3
+    },
+    "cd877149-2945-4b97-801f-59ef3dd2a895": {
+      "1": "Net Profit/Loss Before Tax",
+      "3": 5
+    },
+    "e7ecb423-907c-41e5-af36-12b8d3cac5ea": {
+      "1": "Net Profit/Loss After Tax",
+      "3": 7
+    }
+  },
+  "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
+    "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
+      "18": true,
+      "19": true
+    }
+  }
+}
